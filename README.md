@@ -1,1 +1,1 @@
-# logistic_regression_mnist
+# Logistic Regression MNIST
